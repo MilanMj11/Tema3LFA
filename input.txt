@@ -1,0 +1,7 @@
+11
+S -> adAa | dEc
+A -> abB | aS
+B -> bCee
+C -> bDss | bBe
+D -> cDa | ey | _
+E -> dd
